@@ -33,3 +33,9 @@ body {
 .vh-100 {
   height: 100vh;
 }
+
+@media screen and (max-width: 991px) {
+  .bg {
+    background: #fa8072 !important;
+  }
+}
