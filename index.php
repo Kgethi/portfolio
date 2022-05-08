@@ -151,6 +151,13 @@
             transform: translateX(0px)
         }
     }
+
+    @media screen and (max-width: 991px) {
+  .bg {
+    background: #fa8072 !important;
+  }
+}
+
 </style>
 
 <body>
