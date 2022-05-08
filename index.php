@@ -215,6 +215,7 @@
 
                 <h2 class="mb-4">In the mean time checkout my projects:</h2>
                 <p><a href="https://euria.co.za/euria-estate/index.php" target="_blank" class="link-light">Euria Estate facility booking system</a></p>
+                <p><a href="http://www.african-marmalade.euria.co.za/" target="_blank" class="link-light">African Maramalade</a></p>
             </div>
 
         </div>
