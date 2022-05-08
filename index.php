@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <?php
     $server = 'localhost';
     $username = "euriamej_admin";
@@ -216,6 +216,10 @@
                 <h2 class="mb-4">In the mean time checkout my projects:</h2>
                 <p><a href="https://euria.co.za/euria-estate/index.php" target="_blank" class="link-light">Euria Estate facility booking system</a></p>
                 <p><a href="http://www.african-marmalade.euria.co.za/" target="_blank" class="link-light">African Maramalade</a></p>
+                
+                <h2 class="mb-4">Socials:</h2>
+                <a href = "https://www.linkedin.com/in/kgethego-ledwaba-aa59a1121" target = "_blank"><i class="bi bi-linkedin"></i></a>
+                <a href = "https://github.com/Kgethi" target = "_blank" class="link-light"><i class="bi bi-github"></i></a>
             </div>
 
         </div>
