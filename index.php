@@ -74,6 +74,8 @@
 </head>
 
 <style>
+    .social-links{font-size: 40px;}
+    
     .email-input {
         background-color: transparent;
     }
@@ -226,8 +228,8 @@
 
                     <h2 class="mb-4">Socials:</h2>
                     <div class="w-100">
-                    <a href="https://www.linkedin.com/in/kgethego-ledwaba-aa59a1121" target="_blank"><i class="bi bi-linkedin"></i></a>
-                    <a href="https://github.com/Kgethi" target="_blank" class="link-light"><i class="bi bi-github"></i></a>
+                    <a href="https://www.linkedin.com/in/kgethego-ledwaba-aa59a1121" target="_blank" class = "social-links mr-2"><i class="bi bi-linkedin"></i></a>
+                    <a href="https://github.com/Kgethi" target="_blank" class="link-light social-links"><i class="bi bi-github"></i></a>
 
                 </div>
 
